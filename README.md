@@ -1,6 +1,8 @@
 # UserRecords
-- create a java SE application and use the classes above to add more logic
+- install mysql database
 - Set the correct variables in the Util Classs to match the ones you have in your computer
+- create a java SE application and use the classes above to add more logic
+
 
 You could create an app with name `UserRecords` and ensure your package name is `userrecords`
 
