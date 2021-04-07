@@ -6,11 +6,11 @@
 package userrecords;
 
 public class Util {
-    static String DATABASE_TYPE = "";
-    static String DATASE_HOST = "";
-    static String DATABASE_USER = "";
+    static String DATABASE_TYPE = "mysql";
+    static String DATASE_HOST = "localhost";
+    static String DATABASE_USER = "root";
     static String DATABASE_USER_PASS = "";
-    static String DATABASE_PORT = "";
-    static String DATABASE_NAME = "";            
+    static String DATABASE_PORT = "3306";
+    static String DATABASE_NAME = "users";            
     
 }
